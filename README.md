@@ -1,1 +1,1 @@
-It a static website passenger counter app created using html,js and css.It is the project7 of the web development bootcamp by Gtech Mulearn.
+It is a  passenger counter app created using HTML,JS and CSS. It is the seventh task of web development bootcamp by gtech mulearn.
